@@ -1,4 +1,8 @@
 _repo: A-Little-Garden-Calendar-for-Boys-and-Girls_48063
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48063-h/images/cover.jpg
 creator:
   author:
     agent_name: Paine, Albert Bigelow
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48063#A-Little-Garden-Calendar-for-Boys-and-Girls
 gutenberg_issued: '2015-01-24'
 gutenberg_type: Text
 identifiers:
